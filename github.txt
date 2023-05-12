@@ -5,6 +5,6 @@
 
 cammand
 $ git push --set-upstram origin master
-
+git push -u origin master
 
 abc
