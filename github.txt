@@ -1,0 +1,12 @@
+
+Enter your email* - hemant@rathinfotech.com
+Create a password* - hemantrane@123
+Enter a username* - Hemant-Rath
+
+
+
+cammand
+$ git push --set-upstram origin master
+
+
+abc
